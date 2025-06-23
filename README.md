@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Amir</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choudharyaamir828&label=Profile%20views&color=0e75b6&style=flat" alt="choudharyaamir828" /> </p>
@@ -8,13 +8,13 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning, Html, CSS, DSA, JavaScript,**
+- 🌱 I’m currently learning **Machine Learning, NLP, Data Analytics,**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 💬 Ask me about **Machine Learning, DSA, JavaScript**
+- 💬 Ask me about **Machine Learning, Data Analytics,Excel,Tableau **
 
 - 📫 How to reach me **choudharyaamir828@gmail.com**
 
